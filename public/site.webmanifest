@@ -1,0 +1,16 @@
+{
+  "name": "Md Raiyaan Tarique | Portfolio",
+  "short_name": "Raiyaan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08111a",
+  "theme_color": "#d8ff44",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
